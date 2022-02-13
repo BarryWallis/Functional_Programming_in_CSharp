@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ExerciseSolutions.Chapter02;
+﻿namespace ExerciseSolutions.Chapter02;
 
 public static class Chapter02Exercises
 {
