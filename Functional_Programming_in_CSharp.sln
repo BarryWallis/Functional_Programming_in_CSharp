@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32120.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseSolutions", "ExerciseSolutions\ExerciseSolutions.csproj", "{D83753EC-A5AE-4C33-810E-076776AF9D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{A335E073-A908-4BF3-A7C1-97E6705A8B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseTests", "ExerciseTests\ExerciseTests.csproj", "{A335E073-A908-4BF3-A7C1-97E6705A8B8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
