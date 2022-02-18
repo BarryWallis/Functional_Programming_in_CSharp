@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Mail;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net.Mail;
 
 using LaYumba.Functional;
+
 using static LaYumba.Functional.F;
 
 namespace ExerciseSolutions.Chapter05;
