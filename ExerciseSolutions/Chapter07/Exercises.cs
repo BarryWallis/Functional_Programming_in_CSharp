@@ -9,6 +9,10 @@ public static class Exercises
     //      .Take(population.Count / 4)
     //      .Select(p => p.Earnings)
     //      .Average();
+    // OrderByDescending: (IEnumerable<T>, T -> IComparable<T>) -> IEnumberable<T>
+    // Take: (IEnumberable<T>, int) -> IEnumberable<T>
+    // Select: (IEnumerable<T>, T -> IComperable<T>) -> IEnumerable<T>
+    // Average: IEnumberable<T> -> double
 
     // 2 Check your answer with the MSDN documentation: https://docs.microsoft.com/
     // en-us/dotnet/api/system.linq.enumerable. How is Average different?
